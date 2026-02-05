@@ -1,4 +1,4 @@
-# This script demonstrates variable assignment and data types in Python.
+ # This script demonstrates variable assignment and data types in Python.
 # Assigning different types of variables
 #integer
 age = 21
